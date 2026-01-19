@@ -18,7 +18,7 @@ pip install torch torchvision torchaudio
 
 ## Project Structure
 
-Skeleton Training/
+Automated-human-detection-system-using-LiDAR-data/
 │
 ├── .venv/                      # Python virtual environment (ignored by git)
 │
